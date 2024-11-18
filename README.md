@@ -21,12 +21,12 @@ This project demonstrates login automation using **Selenium** and **Cucumber** w
 ### Steps to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/selenium-cucumber-login-automation-tutorial.git
+   git clone git clone git clone https://github.com/sewminiDeSilva/Cucumber-Selenium-Test.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd selenium-cucumber-login-automation-tutorial
+   cd Cucumber-Selenium-Test
    ```
 
 3. Install project dependencies using Maven:

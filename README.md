@@ -61,5 +61,5 @@ Below are some screenshots of the test execution and generated report:
 
 
 ## Credit:
-This project was created by following the tutorial from **SDET Adda For QA Automation**. You can watch the full tutorial here: (https://youtu.be/8fFtyN7bbpo?si=xjMxVH9fdS3uw6LU).
+This project was created by following the tutorial from **SDET Adda For QA Automation**. You can watch the full tutorial here: **[YouTube Video Link](https://youtu.be/8fFtyN7bbpo?si=xjMxVH9fdS3uw6LU)**.
 
